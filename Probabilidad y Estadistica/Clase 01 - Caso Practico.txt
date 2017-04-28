@@ -1,0 +1,13 @@
+Caso practico: 
+-------------
+
+Se tomo una muesra de 40 reclamos en una empresa por diversas causas.
+
+
+LLegada tarde: 18
+Fluidez: 5
+Modales: 12
+Humedad: 2
+Otros: 3
+
+La suma es el tamaño de la muestra; o, la frecuencia absoluta.
