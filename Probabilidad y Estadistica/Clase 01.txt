@@ -1,6 +1,36 @@
 Probabilidad y estadisticas. 
 
+
+
 Variabilidad o dispersion -> cambios o distintos valores en los datos de un analisis.
+
 Se busca reducir la variabilidad a la hora de aproximar un analisis y mejorar un proceso.
 
+
+
 Estudio de casos: 
+
+Tipos de datos estadisticos-> Suponiendo que los elementos o unidades de observacion on alumnos. 
+
+Para cada objeto de estudio diferente se obtienen datos relacionados especificos.
+
+Existen los cuantitativos (mediante variables numericas) y los cualitativos (mediante variables categoricas).
+
+Esto quiere decir que existen ciertas operaciones o procesos aplicables a un tipo de dato que a otro no.
+
+Las variables categoricas pueden ser: Ordinales, y no ordinales. Osea que existe o no, cierto orden de jerarquias.
+
+Los datos cuantitativos pueden ser: Discretas, o continuas. Las discretas gralmente surgen de un conteo y se expresan con numeros enteros;
+los continuos surgen de una medicion y pueden tomar infinitos valores.
+
+El analisis entre estos dos tipos de datos tambien varia levemente de acuerdo al tipo de dato.
+
+
+
+
+Diagrama de Paretto: Ordena los diagramas en forma decreciente. Permite focalizarse en los datos mas relevantes, organizandolos para su reprsentacion.
+
+
+Variables numericas: Dado un conjunto de datos, se puden obtener de ellos: Valor maximo, valor minimo, un rango (diferencia entre maximo y minimo), 
+Intervalos (Rango dividido cantidad de intervalos).
+
