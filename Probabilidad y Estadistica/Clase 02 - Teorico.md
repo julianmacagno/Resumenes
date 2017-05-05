@@ -1,4 +1,4 @@
-**Estadistica Descriptiva**
+#1 **Estadistica Descriptiva**
 
 Datos: 
 
@@ -10,9 +10,9 @@ Datos:
 			* Discretas: Barras
 			* Continuas: Histograma
 
-**Medidas de Posicion**
+#2 **Medidas de Posicion**
 
-**Media Aritmetica**
+#4 **Media Aritmetica**
 	
 * Es el valor promedio de las muestras  y es independiente de las amplitudes de los intervalos
 
@@ -23,7 +23,7 @@ valor de la media puede cambiar, la cual no es representativa a la tendencia de 
 *Por este caso, la media siempre es buena para conocer la tendencia de los valores analizados, siempre y cuando
 no haya valores atipicos.*
 
-**Mediana**
+#4 **Mediana**
 Es el valor central de los datos agrupados y ordenados. Ejemplo: (X1, X2, X3, X4, X5); mediana = X3. Puede no ser el valor promedio.
 Si la cantidad de datos fuera par, la mediana es el promedio de los dos centrales.
 
