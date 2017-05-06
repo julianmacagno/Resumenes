@@ -59,12 +59,30 @@ es el cuartil 3 menos el cuartil 1. Elimina los valores atipicos. Muestra en que
 Es el promedio de las distancias respecto a la media. Muestra la concentracion de los datos. 
 Usa todos los datos (ventaja). Como desventaja, es mas influenciable por valores atipicos al elevarse al cuadrado.
 
+De todas formas, la varianza es muy dificil de interpretar, ya que un numero por si solo no nos dice nada (si es
+mucho o poco); para esto necesitamos un punto de comparacion.
 
+#### **Coeficiente de variacion**
 
+Representa el porcentaje de la media respecto desvio. A mayor porcentaje, mayor variacion; y visceversa.
+El desvio estandar es un porcentaje de la media. 
 
+### **Teorema de desigualdad de Chebyshev**
 
+Dado cun conjunto de datos con cierto valor medio; si se toma dos desvios a la derecha y dos desvios a la izquiera de la media
+todos los valores comprendidos en ese rango es, como minimo, el 75% de la distribucion. y Si se toma un desvio mas por
+lado, dichos valores son el 90% de la distribucion o mas.
 
+Sirve para obtener un rango de valores, concentrada en 2 cuartiles, los cuales contienen la gran mayoria de valores (>90%)
+A este rango se lo conoce como *rango de variacion natural*. Aquellos valores que esten fuera del rango de variacion natural
+se los considera datos atipicos.
 
+#### **Coeficiente de asimetria** 
+Puede tener signo positivo o negativo. 
+
+* Si me da cercano a 0, la distribucion es practicamente simetrica. Media similar a la moda.
+* Si el signo es positivo, la distribucion es asimetrica con sesgo hacia la derecha. Media mayor a la moda
+* Si el signo es negativo, la distribucion es asimetrica con sesgo hacia la izquierda. Media menor a la moda
 
 
 
