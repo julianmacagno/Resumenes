@@ -84,7 +84,13 @@ Puede tener signo positivo o negativo.
 * Si el signo es positivo, la distribucion es asimetrica con sesgo hacia la derecha. Media mayor a la moda
 * Si el signo es negativo, la distribucion es asimetrica con sesgo hacia la izquierda. Media menor a la moda
 
+Para calcular se pueden usar aproximaciones.
 
+Si el coeficiente de simetria esta entre -0.5 y 0.5, la distribucion es aproximadamente simetrica. 
+
+Si el coeficiente de simetria es > 0.5 o < 0.5, la distribucion es asimetrica. 
+
+Es muy raro encontrar valores > |2|. 
 
 
 
