@@ -92,15 +92,79 @@ Si el coeficiente de simetria es > 0.5 o < 0.5, la distribucion es asimetrica.
 
 Es muy raro encontrar valores > |2|. 
 
+# 
+#
+
+# **Unidad 2 - Probabilidad y Variables aleatorias**
+
+### **Experimento Aleatorio**
+
+1) Caracteristicas
+* Tienen varios resultados, como minimo dos. 
+* No se puede anticipar el resultado antes de hacer el experimento
+
+Ejemplos: juegos de azar (dados, ruleta, lanzar una moneda, elegir una carta).
+
+Pero no nos interesa realizar analisis en juegos de azar, sino en casos de la vida que acaten a la ingenieria.
+
+Ejemplos: Comprobar la cantidad de lluvia en una zona especifica, verificar el nº de errores de un programa.
 
 
+#### **Espacio muestreal de un experimento aleatorio**
+
+Conjunto de todos los valores obtenidos por ese experimento aleatorio.
+
+se usa la letra Omega. *Ejemplo:* 
+* Tirar un dado: {1,2,3,4,5,6}
+* Tirar una moneda: {Cara, cruz}
+* Cantiadad de lluvia: {P \ P>= 0}
+* Cantidad de errores de un programa: { 0,1,2,3,4 .... infinito}
+
+#### **Evento**
+
+Cualquier subconjunto de un espacio muestral.
+A: tirar el dado y que salga el 3: {3}.
+B: tirar el dado y que salga un numero par: {2,4,6}
+C: tirar el dado y que salga un numero negativo: {}
 
 
+**Eventos excluyentes** Son los que definen conjuntos los cuales no tienen elementos en comun.
 
+**Eventos no excluyentes** Definen conjuntos los cuales tienen elementos en comun.
 
+**Union de un conjunto A U B**: Es la suma de los elementos de A mas los elementos de B, sin repetir.
 
+**Interseccion de un conjunto A n B:** Es la suma de los elementos comunes de A con los de B.
 
+**Complemento de un conjunto A:** Aquellos elementos que estan en un conjunto que incluye a A, pero sin los elementos de A.
 
+#### **Probabilidad** 
+
+Es un numero que mide la posibilidad de que ocurra un evento. 
+
+*p(A)*= probabilidad del evento A.
+
+###### **Propiedades**
+
+* 0 <= p(A) <= 1
+
+p(Tirar dado y salga numero entre 1 y 6) = 1
+
+P(A u B) = P(A) + P(B), si A n B son excluyentes.
+
+### **Asignacion de probabilidades**
+
+#### **Asignacion clasica**
+
+p(A) = nº de caos favorables / nº de casos posibles.
+
+Esto analiza casos en donde la probabilidad de un evento sea azar puro; osea la probabilidad de que ocurra cada uno de los eventos
+posibles es la misma.
+
+#### **Asignacion clasica** 
+
+**p(A) = lim**    nº de casos favorables / nº de experimentos.
+         n->∞
 
 
 
