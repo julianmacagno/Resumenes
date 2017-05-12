@@ -5,6 +5,7 @@
 **Suma** - *P(AuB)*
 
 Nos da la probabilidad de que curra un evento, el otro, o ambos.
+
 `
   Ej: Tirar un dado y que salga un numero par o mayor a 4.
 `
@@ -12,6 +13,7 @@ Nos da la probabilidad de que curra un evento, el otro, o ambos.
 **Multiplicacion** - *P(AnB) (Probabilidad conjunta)*.
 
 Sive para calcular la probabilidad de que dos eventos ocurran simultaneamente.
+
 `
   Tirar un dado y que salga un numero par y mayor a 4
 `
@@ -25,15 +27,15 @@ Sive para calcular la probabilidad de que dos eventos ocurran simultaneamente.
 2) P(AnB):
 * Elementos excluyentes.
 * Admite eventos simultaneos o sucesivos (tirar dos monedas simultaneamente es lo mismo que tirar la misma moneda d
-* Se calcula como la probabilidad de que ocurra un evento por la probabilidad de que ocurra el otro evento cuando YA ocurrio el primero (Si los eventos son dependientes)    
-
-`
-  P(A)*P(B/A)
-`
+* Se calcula como la probabilidad de que ocurra un evento por la probabilidad de que ocurra el otro evento cuando YA ocurrio el primero (Si los eventos son dependientes) `P(A)*P(B/A)`
 
 * (Si los eventos son independientes) Se calcula como la probabilidad de que ocurra un evento por la probabilidad de que ocurra el otro
 
 ### **Variable aleatoria**
 
 Es una funcion que asigna un valor (numerico) al resultado de un experimento aleatorio.
-  Ej: X= nº que sale al tirar un dado.
+
+` Ej: X= nº que sale al tirar un dado {1,2,3,4,5,6}.`
+` X= monto de precipitaciones de una lluvia {x/x>=0}`
+
+Puede ser discreta o continuas.
