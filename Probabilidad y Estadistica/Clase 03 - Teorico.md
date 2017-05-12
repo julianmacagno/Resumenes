@@ -19,17 +19,16 @@ Sive para calcular la probabilidad de que dos eventos ocurran simultaneamente.
 
 **Ejemplo**
   P(AuB):
-    *      Elementos no excluyentes.
-    *      Se calcula como la probabilidad de que ocurra un evento mas la probabilidad de que ocurra la otra.
+*      Elementos no excluyentes.
+*      Se calcula como la probabilidad de que ocurra un evento mas la probabilidad de que ocurra la otra.
           
   P(AnB):
-    *      Elementos excluyentes.
-    *      Admite eventos simultaneos o sucesivos (tirar dos monedas simultaneamente es lo mismo que tirar la misma moneda d
-    *      Se calcula como la probabilidad de que ocurra un evento por la probabilidad de que ocurra el otro evento 
-              cuando YA ocurrio el primero (Si los eventos son dependientes)    
+*      Elementos excluyentes.
+*      Admite eventos simultaneos o sucesivos (tirar dos monedas simultaneamente es lo mismo que tirar la misma moneda d
+*      Se calcula como la probabilidad de que ocurra un evento por la probabilidad de que ocurra el otro evento cuando YA ocurrio el primero (Si los eventos son dependientes)    
         `
           P(A)*P(B/A)
         `
-    *      (Si los eventos son independientes) Se calcula como la probabilidad de que ocurra un evento por la probabilidad
+*      (Si los eventos son independientes) Se calcula como la probabilidad de que ocurra un evento por la probabilidad
               de que ocurra el otro
           
