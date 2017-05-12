@@ -161,7 +161,7 @@ p(A) = nº de caos favorables / nº de casos posibles.
 Esto analiza casos en donde la probabilidad de un evento sea azar puro; osea la probabilidad de que ocurra cada uno de los eventos
 posibles es la misma.
 
-#### **Asignacion clasica** 
+#### **Asignacion frecuencial** 
 
 **p(A) = lim**    nº de casos favorables / nº de experimentos.
          n->∞
