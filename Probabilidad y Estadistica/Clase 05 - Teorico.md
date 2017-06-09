@@ -94,3 +94,26 @@ La varianza de la media es igual a signa^2 /n.
 * Ejemplo, el Promedio trabaja con todos los elementos, la Mediana solo con el valor central. El promedio es mas suficiente.    
 
 **Con todo lo anterior, concluimos que la Media Aritmetica o Promedio es un muy buen estimador, ya que es Insesgado, Consistente, Eficiente y Suficiente.** Por este motivo, siempre se usa la Media Aritmetica o Promedio como estimador.
+
+
+
+##### Sin embargo, una estimacion puntual (aunque este basado en la media aritmetica) no da una informacion acerca del error de la estimacion.
+
+Para ello, por logica, tambien deberiamos hacer estimaciones por intervalos.
+
+## Estimaciones por intervalos: 
+
+** P(Li < & < Ls) = 1 - **a**
+
+& -> es un parametro.
+Li y ls son el limite inferior y superior del intervalo. 
+1 - **a** es una probabilidad que se la llama como "nivel de confianza"
+*A primera vista, la funcion puede ser interpretada como la probabilidad de que & este dentro del intervalo; PERO, la funcion refleja la probabilidad (1-a) de que el intervalo aleatorio {li,ls} incluya al parametro &; el cual es un numero fijo.*
+
+El *intervalo de confianza* es el intervalo que incluye a &.
+
+**Intervalo de confianza para la media poblacional:* 
+
+ 
+ 
+
