@@ -51,12 +51,12 @@ De todos los estimadores que conocemos, el que mas se utiliza en la practica es 
 
 #### **Distribucion de la media aritmetica:** 
 
-**Sea x1, x2, x3, ... xn; una muestra aleatoria de tamaño n de una variable aleatoria X con distribucion Normal(mu,signa-cuadrado):** -> Podemos considerar a las observaciones como variables aleatorias con distribuciones iguales a la poblacion. 
+**Sea x1, x2, x3, ... xn; una muestra aleatoria de tamaño n de una variable aleatoria X con distribucion Normal(mu,signa^2):** -> Podemos considerar a las observaciones como variables aleatorias con distribuciones iguales a la poblacion. 
 
 Sea X=(x1+x2+x3...+xn)/n
 
 Si X es la sumatoria de variables aleatorias, X es tambien una variable aleatoria con la misma distribucion que las variables aleatorias.
-La varianza de la media es igual a signa-cuadrado/n.
+La varianza de la media es igual a signa^2 /n.
 
 *Que pasa si la variable que estamos analizando no tiene distribucion normal o si distribucion es desconocida?* Si sumamos muchas variables aleatorias (mas de 30) identicamente distribuidas , por el **Teorema del Limite Central**, la sumatoria va a tener distribucion aproximadamente normal. Por ende, todo lo anterior es valido.
 
@@ -67,7 +67,7 @@ La varianza de la media es igual a signa-cuadrado/n.
 
 ### Estimacion de parametros y pruebas de hipotesis
 
-1) **Estimacion de parametros:** Busca realizar estimaciones de los valores de los parametroos de una poblacion. 
+1) **Estimacion de parametros:** Busca realizar estimaciones de los valores de los parametros de una poblacion. 
 
 2) **Pruebas de hipotesis:**
 
@@ -89,7 +89,7 @@ La varianza de la media es igual a signa-cuadrado/n.
 * **Estimador Consistente:** Si n->infinito, var(Ô)->0.
     Ejemplo: para X(media), var(X)=G-cuadrado/n; n->infinito, var(X)->0.
 * **Estimador Eficiente:** Debe poder encontrar estimadores los cuales encuentren estimaciones con menor varianzas. Para dos estimadores, aquel que tenga una carianza menor es la mas eficiente. Osea aquel que aprovecha mejor  a la mustra.
-    Ejemplo: Para x(media), var(X)=G-cuadrado/n. Para M(mediana), var(M)=G-cuadrado * Pi/2.
+    Ejemplo: Para x(media), var(X)= G^2 /n. Para M(mediana), var(M)=G-cuadrado * Pi/2.
 * **Estimador Suficiente:** Para que un estimador sea suficiente, este debe trabajar con la mayor cantidad de datos posibles; lo ideal seria con todos los datos.
 * Ejemplo, el Promedio trabaja con todos los elementos, la Mediana solo con el valor central. El promedio es mas suficiente.    
 
