@@ -114,6 +114,7 @@ El *intervalo de confianza* es el intervalo que incluye a &.
 
 **Intervalo de confianza para la media poblacional:* 
 
- 
- 
+## Distribucion Chi-Cuadrado
+
+Es una familia de distribuciones asimetricas con sesgo hacia la derecha. Con parametro r.
 
