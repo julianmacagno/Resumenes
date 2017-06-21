@@ -8,11 +8,11 @@
 * **Hipotesis alternativa: H1**
 
 Para comprobar una hipotesis alternativa, que es lo que nos interesa a nosotros, utilizamos medios que nos lo permitan.
-Para ello, por ejempoçlo utilizamos el caso del oro; tomamos una muestra y la analizamos repetidamente para obtener un valor medio y un desvio; para asi poder compararla con la de la hipotesis nula.
+Para ello, por ejempolo utilizamos el caso del oro; tomamos una muestra y la analizamos repetidamente para obtener un valor medio y un desvio; para asi poder compararla con la de la hipotesis nula.
 
 2) ### Seleccionar un criterio de Desicion
 
-A esto se lo llama **Criterio de Seleccion**, como el metodo que se utiliza para definir si la içhipotesis nula es cierta o no.
+A esto se lo llama **Criterio de Seleccion**, como el metodo que se utiliza para definir si la hipotesis nula es cierta o no.
 
 Normalmente, intentaremos llevar nuestros resultados de los analisis a desarrollos con distribuciones Normales, las cuales son conocidas.
 La forma para normalizarla es la de 
